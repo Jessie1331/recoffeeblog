@@ -1,0 +1,212 @@
+
+/*globle*/
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+h1,h2,h3{
+    text-align: center;
+    padding: 10px;
+
+}
+
+image{
+    max-width: 100%;
+}
+p{
+    line-height: 2;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+/*utilities*/
+.container{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.btn{
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+
+}
+.read-btn{
+
+    background-color: black;
+    width: 120px;
+}
+
+.more-info-btn{
+    width: 180px;
+    background-color: rgb(143,71,30);
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+
+}
+
+/*header*/
+.site-init{
+    background-image: url(../image/banner.jpg);
+    height: 400px;
+    background-position: center center;
+    background-size: cover;
+    color: white;
+}
+.site-init p{
+    text-align: center;
+    
+}
+.title{
+    font-weight: bold;
+    font-size: 18px;
+}
+.menu{
+    text-align: center;
+}
+.menu a{
+    margin-right: 20px;
+}
+.header-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.site-header{
+    background-color: black;
+    height: 100px;
+
+}
+.site-header h1{
+    color: white;
+}
+/*main*/
+main{
+    margin-right: 10px;
+
+}
+
+/*blog*/
+.blog-container{
+
+    margin-bottom: 20px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+
+
+}
+
+/*footer*/
+
+footer{
+    background-color: black;
+    color: white;
+    height: 80px;
+    
+
+}
+
+/*about us*/
+
+.img-us-container{
+   margin-right: auto;
+ 
+   
+}
+    
+.text-us-container{
+    width: 45%;
+    margin-left: 20px;
+    text-align: justify;
+}
+.bar-about-img{
+    flex-basis: 50%;
+    margin-right: 20px;
+}
+.bar-about-text{
+    flex-basis: 50%;
+}
+
+/*contact*/
+
+.contact-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   height: 80vh;
+    
+
+
+}
+.contact-img{
+    width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.contact-form
+{
+    background-color: white;
+    width: 80%;
+    align-items: center;
+    padding: 20px;
+    
+    
+
+}
+.form-control{ 
+    margin: 10px;
+    
+
+}
+label{
+    display: inline-block;
+    width: 80px;
+    
+
+
+
+}
+input{
+    padding: 5px;
+    width: 40px;
+
+}
+textarea{
+    padding: 5px;
+    width: 40%;
+
+}            
+/*courses*/
+.course{
+    margin-left: auto;
+    font-weight: bolder;
+    color: pink;
+    text-align: center;
+    text-decoration: underline;
+    
+    
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
